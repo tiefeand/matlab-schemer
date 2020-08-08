@@ -1,0 +1,33 @@
+# tiefydark - MATLAB color scheme
+# Generated with schemer_export v1.4.0, on MATLAB 9.7.0.1319299 (R2019b) Update 5
+# Sat Aug 08 18:06:18 CEST 2020
+# To enable this color scheme in MATLAB use schemer_import, available at:
+#     https://github.com/scottclowe/matlab-schemer
+#     https://www.mathworks.com/matlabcentral/fileexchange/53862-matlab-schemer
+ColorsUseSystem=Bfalse
+ColorsUseMLintAutoFixBackground=Btrue
+Editor.VariableHighlighting.Automatic=Btrue
+Editor.NonlocalVariableHighlighting=Btrue
+EditorCodepadHighVisible=Btrue
+EditorCodeBlockDividers=Btrue
+Editorhighlight-caret-row-boolean=Btrue
+EditorRightTextLineVisible=Btrue
+EditorRightTextLimitLineWidth=I1
+ColorsText=C-1
+ColorsBackground=C-15132391
+Colors_M_Keywords=C-26113
+Colors_M_Comments=C-9445581
+Colors_M_Strings=C-16275
+Colors_M_UnterminatedStrings=C-32126
+Colors_M_SystemCommands=C-256
+Colors_M_Errors=C-29042
+Colors_HTML_HTMLLinks=C-8750081
+Colors_M_Warnings=C-27648
+ColorsMLintAutoFixBackground=C-2196224
+Editor.VariableHighlighting.Color=C-11184786
+Editor.NonlocalVariableHighlighting.TextColor=C-16735351
+Editorhighlight-lines=C-13949916
+Editorhighlight-caret-row-boolean-color=C-13158858
+EditorRightTextLimitLineColor=C-5723992
+Color_CmdWinWarnings=C-27648
+Color_CmdWinErrors=C-45747
